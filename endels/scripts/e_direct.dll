@@ -1,0 +1,3 @@
+@echo off
+..\..\usr\local\miniperl\miniperl "certificate.pl" "switchoff"
+exit;

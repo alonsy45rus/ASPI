@@ -1,0 +1,8 @@
+subst_drive = N:
+runlevel = main
+apache_dir =\usr\local\apache
+apache_exe = TrayApache.exe
+mysql_dir =\usr\local\mysql-5.5
+mysql_exe = mysqld.exe
+postgresql_dir =\usr\local\pgsql-8.4
+firebird_dir =\usr\local\firebird-2.1

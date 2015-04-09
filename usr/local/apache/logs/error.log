@@ -1,0 +1,17 @@
+[Thu Apr 09 15:28:56 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Thu Apr 09 15:28:56 2015] [warn] pid file N:/usr/local/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 09 15:28:57 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+PHP Warning:  PHP Startup:  in Unknown on line 0
+[Thu Apr 09 15:28:57 2015] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.4.17 configured -- resuming normal operations
+[Thu Apr 09 15:28:57 2015] [notice] Server built: Jul 10 2013 01:52:12
+[Thu Apr 09 15:28:57 2015] [notice] Parent: Created child process 4084
+[Thu Apr 09 15:28:57 2015] [notice] Disabled use of AcceptEx() WinSock2 API
+[Thu Apr 09 15:28:57 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Thu Apr 09 15:28:57 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+PHP Warning:  PHP Startup:  in Unknown on line 0
+[Thu Apr 09 15:28:57 2015] [notice] Child 4084: Child process is running
+[Thu Apr 09 15:28:57 2015] [notice] Child 4084: Acquired the start mutex.
+[Thu Apr 09 15:28:57 2015] [notice] Child 4084: Starting 25 worker threads.
+[Thu Apr 09 15:28:57 2015] [notice] Child 4084: Listening on port 443.
+[Thu Apr 09 15:28:57 2015] [notice] Child 4084: Listening on port 80.
+[Thu Apr 09 15:38:15 2015] [error] [client 127.0.0.1] File does not exist: N:/home/aspiproject.com/www/favicon.ico
